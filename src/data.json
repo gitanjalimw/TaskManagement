@@ -1,0 +1,92 @@
+{
+  "lanes": [
+    {
+      "id": "To-do",
+      "title": "To-do Tasks",
+      "label": "TASK1",
+      "style": {"width": 300},
+      "cards": [
+        {
+          "id": "Grocery",
+          "title": "Buy Grocery",
+          "label": "1 hour",
+          "cardStyle": { "width": 250, "maxWidth": 250, "margin": "auto", "marginBottom": 6 },
+          "description": "Purchase all daily need grocery from the store"
+        },
+        {
+          "id": "TodoB",
+          "title": "Call Plumber",
+          "label": "10 mins",
+          "cardStyle": { "width": 250, "maxWidth": 250, "margin": "auto", "marginBottom": 6 },
+          "description": "Call Plumber and ask for negotiation"
+        },
+         {
+          "id": "TodoC",
+          "title": "Pay EMI & Rent",
+          "label": "5 mins",
+          "cardStyle": { "width": 250, "maxWidth": 250, "margin": "auto", "marginBottom": 6 },
+          "description": "Pay the Rents and EMI"
+        },
+        {
+          "id": "TodoD",
+          "title": "weekly Meeting Schedule",
+          "label": "60 mins",
+          "cardStyle": { "width": 270, "maxWidth": 270, "margin": "auto", "marginBottom": 6 },
+          "description": "Schedule Meeting for entire week and attend todays "
+        }
+      ]
+    },
+    {
+      "id": "workProgress",
+      "title": "Work In Progress",
+      "label": "TASK2",
+      "style": {"width": 300},
+      "cards": [
+        {
+          "id": "workProgressA",
+          "title": "Dental Tratment",
+          "label": "2 days",
+          "cardStyle": { "width": 270, "maxWidth": 270, "margin": "auto", "marginBottom": 5 },
+          "description": "Go to dentist for two times for coming week"
+        },
+        {
+          "id": "workProgressB",
+          "title": "Office Assignment",
+          "label": "1 week",
+          "cardStyle": { "width": 270, "maxWidth": 270, "margin": "auto", "marginBottom": 5 },
+          "description": "Complete the client assignment in ine week"
+        }        
+      ]
+    },
+    {
+      "id": "COMPLETED",
+      "title": "Completed",
+      "style": {"width": 300},
+      "label": "TASK3",
+      "cards": [ 
+                {
+          "id": "CompletedA",
+          "title": "Electricity BILL",
+          "label": "10 mins",
+          "cardStyle": { "width": 270, "maxWidth": 270, "margin": "auto", "marginBottom": 5 },
+          "description": "Pay your Electricity Bill online"
+        },
+                {
+          "id": "CompletedB",
+          "title": "Telephone bill Payment",
+          "label": "10 mins",
+          "cardStyle": { "width": 270, "maxWidth": 270, "margin": "auto", "marginBottom": 5 },
+          "description": "Pay your Telephone Bill using PayTm"
+        },
+        {
+          "id": "CompletedC",
+          "title": "Daily Exsersize",
+          "label": "30 mins",
+          "cardStyle": { "width": 270, "maxWidth": 270, "margin": "auto", "marginBottom": 5 },
+          "description": "Go for the morning walk in garden"
+        }
+        
+      ]
+    }
+  ]
+}

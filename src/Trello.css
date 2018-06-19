@@ -1,0 +1,24 @@
+.Trello {
+}
+
+.Trello-header {
+  background-color: #C21F39;
+  height: 50px;
+  padding: 10px;
+  color: black;
+}
+
+.Trello-intro {
+  font-size: large;
+  margin: 0;
+}
+
+.Trello-background
+{
+    color: brown
+}
+
+@keyframes Trello-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

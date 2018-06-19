@@ -1,0 +1,15 @@
+<svg https://www.w3schools.com/code/tryit.asp?filename=FSGT5E5K5AIW
+    width="400" height="400">
+  <ellipse cx="150" cy="60" rx="100" ry="50" stroke="red" stroke-width="4" fill="brwon"
+  />
+   <line x1="170" y1="50" x2="180" y2="50" style="stroke:green ;stroke-width:2" />
+    <line x1="200" y1="60" x2="170" y2="60" style="stroke:green ;stroke-width:2" />
+    <line x1="180" y1="70" x2="190" y2="70" style="stroke:green ;stroke-width:2" />
+    <line x1="190" y1="80" x2="150" y2="80" style="stroke:green ;stroke-width:2" />
+    <line x1="180" y1="90" x2="160" y2="90" style="stroke:green ;stroke-width:2" />
+    <line x1="180" y1="100" x2="150" y2="100" style="stroke:green ;stroke-width:2" />
+    <text fill="Bonzai" font-size="30" font-family="Arial" x="70" y="60"
+   stroke="green">
+   Bonzai
+  
+</svg> 
